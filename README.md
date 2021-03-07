@@ -16,7 +16,7 @@ I'm a 2nd stage student of SE. I'm loving linux and python, though had lots of o
 * Weather Tracking App: [WeatherApp](https://github.com/ghadd/WeatherApp)
 * AI powered Connect4: [Connect Four](https://t.me/connect_4our_bot)
   
-#### As I mentioned earlier, now I as deep into deep, so nothing great is coming in soon... Or is it⁉️
+#### As I mentioned earlier, now I am deep into deep, so nothing great is coming in soon... Or is it⁉️
 
 ![Ghadd's github stats](https://github-readme-stats.vercel.app/api?username=ghadd&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghadd&layout=compact&hide_border=true)
