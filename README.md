@@ -1,6 +1,6 @@
 # Hello boys and girls 🖐️
 
-I'm a 2nd stage student of SE. I'm loving linux and python, though had lots of other experience to. Nowadays onto ML & AI, though glad to have my mindset leaning towards any other interesting project 🌄
+I'm a 2nd stage student of SE. I'm loving linux and python, though had lots of other experience too. Nowadays onto ML & AI, though glad to have my mindset leaning towards any other interesting project 🌄
 
 ## Working and living in sake of simplicity and clearness 🥛
 
