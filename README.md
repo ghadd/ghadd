@@ -1,6 +1,6 @@
 # Hello boys and girls 🖐️
 
-I'm a 2nd stage student of SE. I'm loving linux and python, though had lots of other experience too. Nowadays onto ML & AI, though glad to have my mindset leaning towards any other interesting project 🌄
+I'm a 3rd stage student of SE. I'm loving linux and python, though had lots of other experience too. Nowadays onto ML & AI, though glad to have my mindset leaning towards any other interesting project 🌄
 
 ## Working and living in sake of simplicity and clearness 🥛
 
@@ -15,6 +15,7 @@ I'm a 2nd stage student of SE. I'm loving linux and python, though had lots of o
 * Background Downloader: [bgd](https://github.com/ghadd/bg-downloader)
 * Weather Tracking App: [WeatherApp](https://github.com/ghadd/WeatherApp)
 * AI powered Connect4: [Connect Four](https://t.me/connect_4our_bot)
+* Directory Monitor: [DirMonitor](https://github.com/ghadd/edu-DirMonitor)
   
 #### As I mentioned earlier, now I am deep into deep, so nothing great is coming in soon... Or is it⁉️
 
